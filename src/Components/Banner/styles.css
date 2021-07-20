@@ -6,8 +6,6 @@
 }
 
 .banner_contents {
-  /* margin-left: 30px;
-  padding-top: 140px; */
   position: absolute;
   top: 50%;
   left: 2%;
@@ -53,7 +51,7 @@
 }
 
 .banner_fadeBottom {
-  height: 7.3rem;
+  height: 7rem;
   width: 100%;
   position: absolute;
   top: 80%;
